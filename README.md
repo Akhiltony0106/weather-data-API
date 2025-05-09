@@ -12,7 +12,7 @@ This project collects real-time weather data from OpenWeather API, stores it in 
 
 ## 📊 Architecture
 
-![Architecture Diagram](task_architecture.jpg)
+![Architecture Diagram](Architecture-weatherAPI.jpg)
 
 ## 📁 Files
 - `lambda_function.py`: Python Lambda code to fetch weather data
